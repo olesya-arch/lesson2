@@ -18,7 +18,6 @@ public class Main {
 			} else System.out.println("Месяц моего рождения больше даты моего рождения:" + false);
 		}
 
-
 		char [] a = new char[5];
 		a [0] = 'O';
 		a [1] = 'л';
